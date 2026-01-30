@@ -4,11 +4,4 @@
     "videoUrl": "https://raw.githubusercontent.com/Vasu-Thakor/Zuzee-Media/main/movies/avengers.zuzee",
     "thumbnailUrl": "https://raw.githubusercontent.com/Vasu-Thakor/Zuzee-Media/main/movies/avengers_thumb.jpg",
     "isHd": true
-  },
-  {
-    "title": "Pathaan",
-    "videoUrl": "https://example.com/pathaan.mp4",
-    "thumbnailUrl": "https://example.com/pathaan.jpg",
-    "isHd": false
   }
-]
