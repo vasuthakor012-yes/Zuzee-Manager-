@@ -3,12 +3,18 @@
     "title": "Avengers: Endgame",
     "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/avengers.zuzee",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/avengers_thumb.jpg",
+    "description": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "rating": "8.4",
+    "year": "2019",
     "isHd": true
   },
   {
-    "title": "Salar",
-    "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/Sala.zuzee",
-    "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/Salar.jpg",
+    "title": "Salaar",
+    "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/salar.zuzee",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/salar_thumb.jpg",
+    "description": "A gang leader tries to keep a promise made to his dying friend and takes on the other criminal gangs.",
+    "rating": "7.2",
+    "year": "2023",
     "isHd": true
   }
 ]
