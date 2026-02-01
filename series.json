@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mirzapur Season 1",
+    "thumbnailUrl": "https://raw.githubusercontent.com/.../poster.jpg",
+    "description": "A shocking incident...",
+    "rating": "8.5",
+    "year": "2018",
+    "episodes": [
+      {
+        "episodeName": "Episode 1 - Jhandu",
+        // 🔥 UPDATE: यहाँ .mp4 की जगह .zuzee करें
+        "videoUrl": "https://raw.githubusercontent.com/.../ep1_video.zuzee",
+        "duration": "45m"
+      },
+      {
+        "episodeName": "Episode 2 - Gooda",
+        // 🔥 UPDATE: यहाँ भी .zuzee
+        "videoUrl": "https://raw.githubusercontent.com/.../ep2_video.zuzee",
+        "duration": "50m"
+      }
+    ]
+  }
+]
