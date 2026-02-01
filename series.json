@@ -2,7 +2,7 @@
   {
     "title": "Mirzapur Season 1",
     "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/Mirzapur_poster.jpg",
-    "description": "A shocking incident at a wedding procession ignites a series of events involving two families in the lawless city of Mirzapur.",
+    "description": "A shocking incident at a wedding procession ignites a series of events...",
     "rating": "8.5",
     "year": "2018",
     "episodes": [
@@ -10,11 +10,25 @@
         "episodeName": "Episode 1 - Jhandu",
         "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/mirzapur_episode_1.zuzee",
         "duration": "45m"
+      }
+    ]
+  }, 
+  {
+    "title": "Family Man Season 1",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/familyman_poster.jpg",
+    "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism...",
+    "rating": "9.0",
+    "year": "2019",
+    "episodes": [
+      {
+        "episodeName": "Episode 1 - The Family Man",
+        "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/familyman_ep1.zuzee",
+        "duration": "50m"
       },
       {
-        "episodeName": "Episode 2 - Gooda",
-        "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/mirzapur_episode_1.zuzee", 
-        "duration": "50m"
+        "episodeName": "Episode 2 - Sleepers",
+        "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/familyman_ep2.zuzee",
+        "duration": "48m"
       }
     ]
   }
