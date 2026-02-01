@@ -1,21 +1,19 @@
 [
   {
     "title": "Mirzapur Season 1",
-    "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/blob/main/Mirzapur_poster.jpg",
-    "description": "A shocking incident...",
+    "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/Mirzapur_poster.jpg",
+    "description": "A shocking incident at a wedding procession ignites a series of events involving two families in the lawless city of Mirzapur.",
     "rating": "8.5",
     "year": "2018",
     "episodes": [
       {
         "episodeName": "Episode 1 - Jhandu",
-        // 🔥 UPDATE: यहाँ .mp4 की जगह .zuzee करें
-        "videoUrl": "https://raw.githubusercontent.com/.../ep1_video.zuzee",
+        "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/mirzapur_episode_1.zuzee",
         "duration": "45m"
       },
       {
         "episodeName": "Episode 2 - Gooda",
-        // 🔥 UPDATE: यहाँ भी .zuzee
-        "videoUrl": "https://raw.githubusercontent.com/.../ep2_video.zuzee",
+        "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/mirzapur_episode_1.zuzee", 
         "duration": "50m"
       }
     ]
