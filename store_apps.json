@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Calc+",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/calc_icon.png",
+    "downloadUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/calc_plus.apk",
+    "version": "1.0.0",
+    "size": "5.2 MB",
+    "description": "An advanced calculator with history and voice features.",
+    "category": "App"
+  },
+  {
+    "title": "Imager Editor",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/imager_icon.png",
+    "downloadUrl": "https://github.com/vasuthakor012-yes/Zuzee-Manager-/releases/download/v1/imager.apk",
+    "version": "2.1.0",
+    "size": "12 MB",
+    "description": "Professional photo editing tool with AI features.",
+    "category": "App"
+  },
+  {
+    "title": "Zuzee Browser",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/browser_icon.png",
+    "downloadUrl": "https://example.com/browser.apk",
+    "version": "1.0 Beta",
+    "size": "45 MB",
+    "description": "Fast, secure, and private web browsing experience.",
+    "category": "App"
+  }
+]
