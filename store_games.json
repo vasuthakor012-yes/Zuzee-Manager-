@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Ludo Bachhan",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/ludo_icon.png",
+    "downloadUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/ludo.apk",
+    "version": "1.2",
+    "size": "28 MB",
+    "description": "Play Ludo with friends and family. The classic game is back!",
+    "category": "Game"
+  },
+  {
+    "title": "Car Rush 3D",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/car_game_icon.png",
+    "downloadUrl": "https://example.com/game.apk",
+    "version": "1.5",
+    "size": "150 MB",
+    "description": "High-octane racing game with stunning graphics.",
+    "category": "Game"
+  }
+]
