@@ -1,0 +1,20 @@
+[
+  {
+    "title": "WhatsApp Plus",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/wa_mod_icon.png",
+    "downloadUrl": "https://example.com/wa_mod.apk",
+    "version": "v17.00",
+    "size": "55 MB",
+    "description": "Enhanced features like theme customization and privacy options.",
+    "category": "Mod"
+  },
+  {
+    "title": "Insta Pro",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/insta_mod_icon.png",
+    "downloadUrl": "https://example.com/insta_mod.apk",
+    "version": "v9.60",
+    "size": "60 MB",
+    "description": "Download reels, stories, and view profile pictures in HD.",
+    "category": "Mod"
+  }
+]
