@@ -15,8 +15,8 @@
     "title": "Calc+",
     "packageName": "com.zuzeeword.calcplus",
     "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/Social_saver_icon.png",
-    "downloadUrl": "https://your-actual-domain.com/calcplus.apk",  // ✅ असली URL दें
-    "version": "1.0 Beta",
+    "downloadUrl": "https://your-actual-domain.com/calcplus.apk",
+    "version": "1.0",
     "size": "45 MB",
     "description": "Fast, secure, and private web browsing experience.",
     "category": "App",
