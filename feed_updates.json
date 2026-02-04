@@ -5,16 +5,28 @@
     "description": "Version 3.0 is live now. Download status faster than ever with new UI.",
     "imageUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/banner_social.png",
     "date": "04 Feb 2026",
-    "actionType": "OPEN_URL", 
-    "actionValue": "https://youtu.be/your_video_link"
+    "actionType": "OPEN_APP", 
+    "actionValue": "com.zuzeeword.socialsaver",
+    "isAdultContent": false
   },
   {
     "id": "2",
-    "title": "New Game Added: PubG Mod",
-    "description": "Play safely with our new anti-ban feature.",
-    "imageUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/banner_game.png",
+    "title": "New 18+ Mod Added",
+    "description": "Exclusive mod with unlocked features. Check it out now.",
+    "imageUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/banner_adult.png",
     "date": "03 Feb 2026",
-    "actionType": "OPEN_APP",
-    "actionValue": "com.zuzeeword.socialsaver"
+    "actionType": "OPEN_URL",
+    "actionValue": "https://example.com/mod-link",
+    "isAdultContent": true
+  },
+  {
+    "id": "3",
+    "title": "Zuzee World Launch",
+    "description": "We are launching our official website soon.",
+    "imageUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/banner_web.png",
+    "date": "01 Feb 2026",
+    "actionType": "OPEN_URL",
+    "actionValue": "https://zuzeeworld.com",
+    "isAdultContent": false
   }
 ]
