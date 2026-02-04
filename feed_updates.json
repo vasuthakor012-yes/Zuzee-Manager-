@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "title": "Big Update for Social Saver!",
-    "description": "Version 4.0 is live now. Download status faster than ever with new UI.",
+    "title": "Social Saver v4.0 is here!",
+    "description": "Update now for faster downloads and new UI.",
     "imageUrl": "https://archive.org/download/social-saver-update-v-4/SocialSaver_update_v4.png",
     "date": "04 Feb 2026",
     "actionType": "OPEN_APP", 
@@ -11,22 +11,22 @@
   },
   {
     "id": "2",
-    "title": "New 18+ Mod Added",
-    "description": "Exclusive mod with unlocked features. Check it out now.",
-    "imageUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/banner_adult.png",
-    "date": "03 Feb 2026",
-    "actionType": "OPEN_URL",
-    "actionValue": "https://example.com/mod-link",
-    "isAdultContent": true
+    "title": "Raja Saab: Watch Now!",
+    "description": "Prabhas's latest action thriller is now available in HD.",
+    "imageUrl": "https://archive.org/download/system_config_data_v1/system_config_data_v1.jpg",
+    "date": "04 Feb 2026",
+    "actionType": "OPEN_MEDIA",
+    "actionValue": "mov_raja_saab",
+    "isAdultContent": false
   },
   {
     "id": "3",
-    "title": "Zuzee World Launch",
-    "description": "We are launching our official website soon.",
-    "imageUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/banner_web.png",
-    "date": "01 Feb 2026",
-    "actionType": "OPEN_URL",
-    "actionValue": "https://zuzeeworld.com",
+    "title": "Border 2 Exclusive!",
+    "description": "The wait is over. Watch Border 2 in 4K quality.",
+    "imageUrl": "https://archive.org/download/system_border_data_v2_202602/system_border_data_v2.jpg",
+    "date": "04 Feb 2026",
+    "actionType": "OPEN_MEDIA",
+    "actionValue": "mov_border_2",
     "isAdultContent": false
   }
 ]
