@@ -11,10 +11,10 @@
     "rating": "4.2",
     "screenshots": []
   },
-  {
+    {
     "title": "Calc+",
     "packageName": "com.zuzeeword.calcplus",
-    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/Social_saver_icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/calc%2B_icon.png",
     "downloadUrl": "https://your-actual-domain.com/calcplus.apk",
     "version": "1.0",
     "size": "45 MB",
