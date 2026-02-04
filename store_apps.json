@@ -6,28 +6,16 @@
     "downloadUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Games-apk-mod/main/Social_saver_v3.apk",
     "version": "3.0.0",
     "size": "25.62 MB",
-    "description": "Social Saver is the ultimate tool designed for users who want to save and organize their favorite social media statuses effortlessly. Developed by Vasu Thakor, this application provides a seamless experience for downloading photo and video statuses directly to your device.\n\nKey Features:\n• Instant Status Saver: Save photo and video statuses with just one tap.\n• Secret History (Auto-Save): The standout feature! It automatically captures and stores viewed statuses for up to 30 days, ensuring you never miss a fleeting moment.\n• Built-in Media Player: View saved photos and play videos directly within the app without needing external players.\n• Smart Organization: Your media is categorized and sorted by date, making it easy to find what you're looking for.\n• High-Quality UI: Enjoy a branded, smooth interface with premium animations for a superior user experience.\n• Privacy First: All downloads and \"Secret History\" data are stored locally on your device. We do not upload your personal media to any servers..",
+    "description": "Social Saver is the ultimate tool...",
     "category": "App",
     "rating": "4.2",
-    "screenshots": []
-  },
-  {
-    "title": "Zuzee Manager",
-    "packageName": "com.zuzeeword.zuzeemanager",
-    "iconUrl": "https://archive.org/download/picsart-26-02-04-06-23-48-957/Picsart_26-02-04_06-23-48-957.png",
-    "downloadUrl": "https://github.com/vasuthakor012-yes/Zuzee-Manager-/releases/download/v1/imager.apk",
-    "version": "2.1.0",
-    "size": "12 MB",
-    "description": "Professional photo editing tool with AI features.",
-    "category": "App",
-    "rating": "4.8",
     "screenshots": []
   },
   {
     "title": "Calc+",
     "packageName": "com.zuzeeword.calcplus",
     "iconUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/Calc+_icon.png",
-    "downloadUrl": "https://example.com/browser.apk",
+    "downloadUrl": "https://your-actual-domain.com/calcplus.apk",  // ✅ असली URL दें
     "version": "1.0 Beta",
     "size": "45 MB",
     "description": "Fast, secure, and private web browsing experience.",
