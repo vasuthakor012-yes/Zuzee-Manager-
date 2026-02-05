@@ -12,24 +12,5 @@
         "duration": "23:56m"
       }
     ]
-  }, 
-  {
-    "title": "Family Man Season 1",
-    "thumbnailUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/familyman_poster.jpg",
-    "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism...",
-    "rating": "9.0",
-    "year": "2019",
-    "episodes": [
-      {
-        "episodeName": "Episode 1 - The Family Man",
-        "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/familyman_ep1.zuzee",
-        "duration": "50m"
-      },
-      {
-        "episodeName": "Episode 2 - Sleepers",
-        "videoUrl": "https://raw.githubusercontent.com/vasuthakor012-yes/Zuzee-Manager-/main/familyman_ep2.zuzee",
-        "duration": "48m"
-      }
-    ]
   }
 ]
