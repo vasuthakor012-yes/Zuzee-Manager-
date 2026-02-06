@@ -28,5 +28,15 @@
     "actionType": "OPEN_MEDIA",
     "actionValue": "mov_border_2",
     "isAdultContent": false
+  },
+  {
+    "id": "4",
+    "title": "New Series Added",
+    "description": "The wait is over. Watch Jujutsu Kaisen in 4K quality.",
+    "imageUrl": "https://archive.org/download/system_border_data_v2_202602/system_border_data_v2.jpg",
+    "date": "06 Feb 2026",
+    "actionType": "OPEN_MEDIA",
+    "actionValue": "seri_jujutsu_Kaisen",
+    "isAdultContent": false
   }
 ]
