@@ -10,6 +10,11 @@
       {
         "episodeName": "Episode 1 - Yoji Itadori",
         "videoUrl": "https://archive.org/download/elc-1-system-ses-1/Elc_1-system-ses_1.mkv",
+        "duration": "23:57m"
+      },
+      {
+        "episodeName": "Episode 1 - Yoji Itadori",
+        "videoUrl": "https://archive.org/download/2-system-file.img/2_system_file.img.mkv",
         "duration": "23:56m"
       }
     ]
