@@ -18,5 +18,15 @@
     "rating": "7.2",
     "year": "2026",
     "isHd": true
+  },
+  {
+    "id": "dhurandhar",
+    "title": "dhurandhar",
+    "videoUrl": "https://archive.org/download/system_file_mtv/system_file_mtv.mkv",
+    "thumbnailUrl": "https://archive.org/download/dhuri_system/dhuri_system.png",
+    "description": "A gang leader tries to keep a promise...",
+    "rating": "7.5",
+    "year": "2026",
+    "isHd": true
   }
 ]
