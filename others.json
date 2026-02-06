@@ -7,7 +7,7 @@
     "rating": "3.4",
     "year": "2026",
     "isHd": true,
-    "isAdult": true
+    "isAdult": false
   },
   {
     "title": "Sukuna 😏",
@@ -17,6 +17,6 @@
     "rating": "3.4",
     "year": "2026",
     "isHd": true,
-    "isAdult": true
+    "isAdult": false
   }
 ]
