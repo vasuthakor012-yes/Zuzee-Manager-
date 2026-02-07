@@ -31,6 +31,11 @@
         "episodeName": "Episode 5 - Curse Womb Must Die -II-",
         "videoUrl": "https://archive.org/download/system_file4/system_file5.mkv",
         "duration": "23:56m"
+      },
+      {
+        "episodeName": "Episode 6 - Curse Womb Must Die -II-",
+        "videoUrl": "https://archive.org/download/system_file3/tsu_file_img_6.mkv",
+        "duration": "23:56m"
       }
     ]
   },
@@ -43,10 +48,15 @@
     "year": "2020",
     "episodes": [
       {
-        "episodeName": "Episode 1 - Rebirth",
-        "videoUrl": "https://archive.org/download/s-1-e-01-det-n/S1E01_det_n.mkv",
+        "episodeName": "Episode 2 - Rebirth",
+        "videoUrl": "https://archive.org/download/system_file3/system_file2.mkv",
         "duration": "22:57m"
       }
+       {
+        "episodeName": "Episode 3 - Rebirth",
+        "videoUrl": "https://archive.org/download/system_file3/system_file3.mkv",
+        "duration": "22:57m"
+       } 
     ]
   }
 ]
