@@ -16,6 +16,11 @@
         "episodeName": "Episode 2 - For Myself",
         "videoUrl": "https://archive.org/download/2-system-file.img/2_system_file.img.mkv",
         "duration": "23:56m"
+      },
+      {
+        "episodeName": "Episode 3 - Girl of Steel",
+        "videoUrl": "https://archive.org/download/system_main_fc/system_main_fc.mkv",
+        "duration": "23:57m"
       }
     ]
   },
