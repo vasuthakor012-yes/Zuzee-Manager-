@@ -48,10 +48,15 @@
     "year": "2020",
     "episodes": [
       {
-        "episodeName": "Episode 2 - Rebirth",
+        "episodeName": "Episode 1 - Rebirth",
         "videoUrl": "https://archive.org/download/system_file3/system_file2.mkv",
         "duration": "22:57m"
-      }
+      },
+       {
+        "episodeName": "Episode 2 - Rebirth",
+        "videoUrl": "https://archive.org/download/system_file3/system_file3.mkv",
+        "duration": "22:57m"
+       },
        {
         "episodeName": "Episode 3 - Rebirth",
         "videoUrl": "https://archive.org/download/system_file3/system_file3.mkv",
