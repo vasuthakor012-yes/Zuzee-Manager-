@@ -76,6 +76,21 @@
         "episodeName": "Episode 3 - Dealings",
         "videoUrl": "https://archive.org/download/system_file3/system_file3.mkv",
         "duration": "22:57m"
+      },
+      {
+        "episodeName": "Episode 4",
+        "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E4_f6_Defile.mkv",
+        "duration": "22:57m"
+      },
+      {
+        "episodeName": "Episode 5",
+        "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E5_f6_Defile.mkv",
+        "duration": "22:57m"
+      },
+      {
+        "episodeName": "Episode 6",
+        "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E6_f6_Defile.mkv",
+        "duration": "22:57m"
       }
     ]
   }
