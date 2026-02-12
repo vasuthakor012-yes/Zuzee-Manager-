@@ -48,5 +48,15 @@
     "rating": "8.4",
     "year": "2019",
     "isHd": true
+  },
+  {
+    "id": "Minecraft",
+    "title": "Minecraft",
+    "videoUrl": "https://archive.org/download/mi-crafts.v-6/Mi_Crafts.v6.mkv",
+    "thumbnailUrl": "https://archive.org/download/blue-cast/Blue_cast.jpg",
+    "description": "After the devastating events of Infinity War...",
+    "rating": "8.4",
+    "year": "2019",
+    "isHd": true
   }
 ]
