@@ -139,14 +139,49 @@
     "episodes": [
       {
         "episodeName": "Episode 1 - युद्ध का आरंभ",
-        "videoUrl": "https://archive.org/download/ku-fm-file-1/Ku_fm_file1.mkv",
+        "videoUrl": "https://archive.org/download/kuru-s-01-e-04/Ku_fm_file1.0.mkv",
         "duration": "45:00m"
       },
       {
         "episodeName": "Episode 2 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/ku-fm-file-1/Ku_fm_file1.mkv",
+        "duration": "45:00m"
+      },
+      {
+        "episodeName": "Episode 3 - धर्मसंकट",
         "videoUrl": "https://archive.org/download/ku-fm-file-2/Ku_fm_file2.mkv",
         "duration": "45:00m"
+      },
+      {
+        "episodeName": "Episode 4 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/kuru-s-01-e-04/KuruS01E04.mkv",
+        "duration": "45:00m"
+      },
+      {
+        "episodeName": "Episode 5 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/kuru-s-01-e-04/KuruS01E05.mkv",
+        "duration": "45:00m"
       }
+      {
+        "episodeName": "Episode 6 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/kuru-s-01-e-04/KuruS01E06.mkv",
+        "duration": "45:00m"
+      },
+      {
+        "episodeName": "Episode 7 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/kuru-s-01-e-09/KuruS01E07.mkv",
+        "duration": "45:00m"
+      },
+      {
+        "episodeName": "Episode 8 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/kuru-s-01-e-09/KuruS01E08.mkv",
+        "duration": "45:00m"
+      },
+      {
+        "episodeName": "Episode 9 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/kuru-s-01-e-09/KuruS01E09.mkv",
+        "duration": "45:00m"
+       }
     ]
   }
 ]
