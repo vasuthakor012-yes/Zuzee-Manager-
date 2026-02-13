@@ -207,9 +207,9 @@
         "episodeName": "Episode 1 - संजय (Sanjay) ",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-04/Ku_fm_file1.0.mkv",
         "duration": "45:00m",
-        "hasIntro": true,
-        "introStart": "01:09",
-        "introEnd": "01:022"
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 2 - विश्वरूप (Vishwaroop) ",
