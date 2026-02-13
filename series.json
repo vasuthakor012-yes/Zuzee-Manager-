@@ -10,82 +10,130 @@
       {
         "episodeName": "Episode 1 - Ryōmen Sukuna",
         "videoUrl": "https://archive.org/download/elc-1-system-ses-1/Elc_1-system-ses_1.mkv",
-        "duration": "23:57m"
+        "duration": "23:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 2 - For Myself",
         "videoUrl": "https://archive.org/download/2-system-file.img/2_system_file.img.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 3 - Girl of Steel",
         "videoUrl": "https://archive.org/download/system_main_fc/system_main_fc.mkv",
-        "duration": "23:57m"
+        "duration": "23:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 4 - Curse Womb Must Die",
         "videoUrl": "https://archive.org/download/system_file4/system_file4.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 5 - Curse Womb Must Die -II-",
         "videoUrl": "https://archive.org/download/system_file4/system_file5.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 6 - After Rain",
         "videoUrl": "https://archive.org/download/system_file3/tsu_file_img_6.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 7 - Assault",
         "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E7_f6_gofile.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 8 - Boredom",
         "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E8_f6_gofile.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 9 - Small Fish and Reverse Punishment",
         "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E9_f6_gofile.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 10 - Idle Transfiguration",
         "videoUrl": "https://archive.org/download/e-15-f-6-gofile.mkv/E10_f6_gofile.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 11 - To You, Someday",
         "videoUrl": "https://archive.org/download/e-15-f-6-gofile.mkv/E11_f6_gofile.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 12 - To You, From Me",
         "videoUrl": "https://archive.org/download/e-15-f-6-gofile.mkv/E12_f6_gofile.mkv",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 13 - Tomorrow",
         "videoUrl": "https://archive.org/download/e-15-f-6-gofile.mkv/E13_f6_gofile.mkv.mp4",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 14 - Kyoto Sister School Goodwill Event - Team Battle 0 -",
         "videoUrl": "https://archive.org/download/e-15-f-6-gofile.mkv/E14_f6_gofile.mkv.mp4",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 15 - Kyoto Sister School Goodwill Event - Team Battle 1 -",
         "videoUrl": "https://archive.org/download/e-15-f-6-gofile.mkv/E15_f6_gofile.mkv.mp4",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 16 - Kyoto Sister School Goodwill Event - Team Battle 2 -",
         "videoUrl": "https://archive.org/download/e-15-f-6-gofile.mkv/E16_f6_gofile.mkv.mp4",
-        "duration": "23:56m"
+        "duration": "23:56m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       }
     ]
   },
@@ -100,32 +148,50 @@
       {
         "episodeName": "Episode 1 - Rebirth",
         "videoUrl": "https://archive.org/download/s-1-e-01-det-n/S1E01_det_n.mkv",
-        "duration": "22:57m"
+        "duration": "22:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 2 - Confrontation",
         "videoUrl": "https://archive.org/download/system_file3/system_file2.mkv",
-        "duration": "22:57m"
+        "duration": "22:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 3 - Dealings",
         "videoUrl": "https://archive.org/download/system_file3/system_file3.mkv",
-        "duration": "22:57m"
+        "duration": "22:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 4",
         "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E4_f6_Defile.mkv",
-        "duration": "22:57m"
+        "duration": "22:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 5",
         "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E5_f6_Defile.mkv",
-        "duration": "22:57m"
+        "duration": "22:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 6",
         "videoUrl": "https://archive.org/download/e-7-f-6-gofile/E6_f6_Defile.mkv",
-        "duration": "22:57m"
+        "duration": "22:57m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       }
     ]
   },
@@ -140,48 +206,75 @@
       {
         "episodeName": "Episode 1 - संजय (Sanjay) ",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-04/Ku_fm_file1.0.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 2 - विश्वरूप (Vishwaroop) ",
         "videoUrl": "https://archive.org/download/ku-fm-file-1/Ku_fm_file1.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 3 - भीष्म (Bhishm)",
         "videoUrl": "https://archive.org/download/ku-fm-file-2/Ku_fm_file2.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 4 - द्रोणाचार्य (Dronacharya)",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-04/KuruS01E04.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 5 - अभिमन्यु (Abhimanyu)",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-04/KuruS01E05.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 6 - जयद्रथ (Jayadrath)",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-04/KuruS01E06.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 7 - अर्जुन (Arjun)",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-09/KuruS01E07.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 8 - घटोत्कच (Ghatotkach)",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-09/KuruS01E08.mkv",
-        "duration": "45:00m"
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
       },
       {
         "episodeName": "Episode 9 - युधिष्ठिर (Yudhisthir)",
         "videoUrl": "https://archive.org/download/kuru-s-01-e-09/KuruS01E09.mkv",
-        "duration": "45:00m"
-       }
+        "duration": "45:00m",
+        "hasIntro": false,
+        "introStart": "00:00",
+        "introEnd": "00:00"
+      }
     ]
   }
 ]
