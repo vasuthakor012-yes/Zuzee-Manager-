@@ -128,5 +128,25 @@
         "duration": "22:57m"
       }
     ]
+  },
+  {
+    "id": "seri_kurukshetra",
+    "title": "कुरूक्षेत्र",
+    "thumbnailUrl": "https://archive.org/download/1770953263460-2/1770953263460~2.png",
+    "description": "यह सीरीज महाभारत के महायुद्ध 'कुरुक्षेत्र' पर आधारित है, जहां धर्म और अधर्म के बीच कौरवों और पांडवों का ऐतिहासिक संग्राम हुआ था।",
+    "rating": "8.8",
+    "year": "2024",
+    "episodes": [
+      {
+        "episodeName": "Episode 1 - युद्ध का आरंभ",
+        "videoUrl": "https://archive.org/download/ku-fm-file-1/Ku_fm_file1.mkv",
+        "duration": "45:00m"
+      },
+      {
+        "episodeName": "Episode 2 - धर्मसंकट",
+        "videoUrl": "https://archive.org/download/ku-fm-file-2/Ku_fm_file2.mkv",
+        "duration": "45:00m"
+      }
+    ]
   }
 ]
