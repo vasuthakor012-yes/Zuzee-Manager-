@@ -58,5 +58,15 @@
     "rating": "8.4",
     "year": "2023",
     "isHd": false
-  }
+  },
+  {
+    "id": "Thamma",
+    "title": "Thamma",
+    "videoUrl": "https://archive.org/download/th-f-6-system_202602/th_f%206_system.mp4",
+    "thumbnailUrl": "https://archive.org/download/screenshot-20260212-083015.-google/Screenshot_20260212-083015.Google.png",
+    "description": "After the devastating events of Infinity War...",
+    "rating": "8.4",
+    "year": "2026",
+    "isHd": true
+   }
 ]
