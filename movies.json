@@ -88,5 +88,15 @@
     "rating": "7.7",
     "year": "2026",
     "isHd": true
+  },
+  {
+    "id": "Chhava",
+    "title": "Chhava",
+    "videoUrl": "https://archive.org/download/1280x-720-vlg-3-tj/1280x720-Vlg3Tj.mp4",
+    "thumbnailUrl": "https://archive.org/download/img-20260215-wa-0008/IMG-20260215-WA0008.jpg",
+    "description": "After the devastating events of Infinity War...",
+    "rating": "7.7",
+    "year": "2025",
+    "isHd": true
   }
 ]
